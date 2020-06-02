@@ -1,6 +1,6 @@
 # Multi-Objective Fairness PCA - MOFPCA
 
-## Authos *Guilherme*, *Renan*
+## Authors *Guilherme*, *Renan Del Buono Brotto*, *Leonardo*, *Romis Attux*, *João Marcos Travassos Romano*. 
 
 ## Introduction
 
