@@ -1,4 +1,6 @@
-# MOFPCA
+# Multi-Objective Fairness PCA - MOFPCA
+
+## Authos *Guilherme*, *Renan*
 
 ## Introduction
 
