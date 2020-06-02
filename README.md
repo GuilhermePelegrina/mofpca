@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This script verifies the compromise between the (total) reconstruction error and the fairnes measure in a dimensional reduction problem
+This work verifies the compromise between the (total) reconstruction error and the fairnes measure in a dimensional reduction problem
 Fairness measure is given by the difference between the reconstruction errors of the two considered classes. 
 We use a multi-objective approach (SPEA2 algorithm) and select a single non-dominated solution based on
 the minimum weighted sum (with equal importance, but taking the scales of each objective into account).
