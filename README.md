@@ -1,6 +1,4 @@
-# Multi-Objective Fairness PCA - MOFPCA
-
-### Authors *Guilherme*, *Renan Del Buono Brotto*, *Leonardo*, *Romis Attux*, *João Marcos Travassos Romano*. 
+# A multi-objective based approach for Fair Principal Component Analysis
 
 ## Introduction
 
