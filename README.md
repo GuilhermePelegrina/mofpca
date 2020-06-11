@@ -1,6 +1,6 @@
 # A multi-objective based approach for Fair Principal Component Analysis
 
-### Authors *Guilherme*, *Renan Del Buono Brotto*, *Leonardo*, *Romis Attux*, *João Marcos Travassos Romano*. 
+### Authors: *Guilherme Dean Pelegrina*, *Renan Del Buono Brotto*, *Leonardo Tomazeli Duarte*, *Romis Attux*, *João Marcos Travassos Romano*. 
 
 ## Introduction
 
