@@ -1,5 +1,7 @@
 # A multi-objective based approach for Fair Principal Component Analysis
 
+### Authors *Guilherme*, *Renan Del Buono Brotto*, *Leonardo*, *Romis Attux*, *João Marcos Travassos Romano*. 
+
 ## Introduction
 
 This work verifies the compromise between the (total) reconstruction error and the fairnes measure in a dimensional reduction problem
