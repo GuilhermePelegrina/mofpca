@@ -13,6 +13,8 @@ techniques for the predictive accuracy of probability of default of credit card 
 Applications, 36(2), p. 2473-2480] - and some functions were based on [Samadi et al. (2018). The price of fair pca:
 One extra dimension. In Advances in Neural Information Processing Systems, p. 10976-10987].
 
+To cite this work: Pelegrina, G. D.; Brotto, R. D. B.; Duarte, L. T.; Attux, R. & Romano, J. M. T. (2020). A multi-objective-based approach for Fair Principal Component Analysis. ArXiv preprint, arXiv:2006.06137. Available at: https://arxiv.org/abs/2006.06137
+
 ## Execution Steps
 
 All the files in this repository are in .m format, so it is necessary to execute them in a Matlab (v. 2015a) or Octave Environment
