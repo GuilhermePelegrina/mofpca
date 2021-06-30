@@ -88,11 +88,11 @@ for ell=2:featNumUse
     MutMax = PopSize - CrosMax; % Maximum number of mutation
     
     %% Inicialization
-    Popul = [];
+    Popul = 1:ell;
     ii = 1;
-    while ii <= PopSize % Population with different elements
+    while ii < PopSize % Population with different elements
         aux_Pop = sort(randperm(featNum,ell));
-        if size(unique([Popul;aux_Pop],'rows'),1) == ii
+        if size(unique([Popul;aux_Pop],'rows'),1) == ii+1
             Popul = [Popul; aux_Pop]; % Initial population
             ii = ii + 1;
         end
