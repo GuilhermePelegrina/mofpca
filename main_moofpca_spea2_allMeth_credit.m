@@ -132,6 +132,7 @@ for ell=2:featNumUse
             ii = ii + 1;
         end
     end
+    Popul(1,:) = 1:ell;
     
     ExtSet = []; % External set (empty at the beginning)
     ExtSet_Cost = []; % External set cost (empty at the beginning)
